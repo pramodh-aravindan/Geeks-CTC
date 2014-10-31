@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\CTC">
+      <UniqueIdentifier>{d5475f59-22b9-40d2-877e-c3e32876fff5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CTC\09_Recursion">
+      <UniqueIdentifier>{50d32bdb-92de-463a-b894-b6ad0b579c5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Geeks">
+      <UniqueIdentifier>{1f53cd04-d995-40c3-be8e-a8992887365e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Geeks\01_Arrays">
+      <UniqueIdentifier>{9eb16fac-274c-4084-bf74-ff2b7c414ac6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Geeks\02_Matrices">
+      <UniqueIdentifier>{ea618e66-2853-4a95-ab08-d5889def537b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Geeks\03_Strings">
+      <UniqueIdentifier>{4fc68749-7b05-4678-9bfd-b80dda139dfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Geeks\06_Trees">
+      <UniqueIdentifier>{7a9d9ddf-8a73-4d9e-88f5-6ef4b6c81dc1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="09_Soln_01.h">
+      <Filter>Source Files\CTC\09_Recursion</Filter>
+    </ClInclude>
+    <ClInclude Include="09_Soln_02.h">
+      <Filter>Source Files\CTC\09_Recursion</Filter>
+    </ClInclude>
+    <ClInclude Include="09_Soln_03.h">
+      <Filter>Source Files\CTC\09_Recursion</Filter>
+    </ClInclude>
+    <ClInclude Include="01_Geeks_01.h">
+      <Filter>Source Files\Geeks\01_Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="01_Geeks_02.h">
+      <Filter>Source Files\Geeks\01_Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="02_Geeks_01.h">
+      <Filter>Source Files\Geeks\02_Matrices</Filter>
+    </ClInclude>
+    <ClInclude Include="02_Geeks_02.h">
+      <Filter>Source Files\Geeks\02_Matrices</Filter>
+    </ClInclude>
+    <ClInclude Include="02_Geeks_12.h">
+      <Filter>Source Files\Geeks\02_Matrices</Filter>
+    </ClInclude>
+    <ClInclude Include="03_Geeks_01.h">
+      <Filter>Source Files\Geeks\03_Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="03_Geeks_02.h">
+      <Filter>Source Files\Geeks\03_Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="03_Geeks_03.h">
+      <Filter>Source Files\Geeks\03_Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="03_Geeks_04.h">
+      <Filter>Source Files\Geeks\03_Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="03_Geeks_05.h">
+      <Filter>Source Files\Geeks\03_Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="03_Geeks_06.h">
+      <Filter>Source Files\Geeks\03_Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="06_Geeks_01.h">
+      <Filter>Source Files\Geeks\06_Trees</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
