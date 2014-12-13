@@ -1,7 +1,7 @@
-#include "06_Geeks_01.h"
+#include "06_Geeks_07.h"
 
 int main()
 {
-	treeTraversalMain();
+	printPathMain();
 	return 0;
 }

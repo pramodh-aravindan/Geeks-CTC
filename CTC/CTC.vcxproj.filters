@@ -86,5 +86,23 @@
     <ClInclude Include="06_Geeks_01.h">
       <Filter>Source Files\Geeks\06_Trees</Filter>
     </ClInclude>
+    <ClInclude Include="06_Geeks_02.h">
+      <Filter>Source Files\Geeks\06_Trees</Filter>
+    </ClInclude>
+    <ClInclude Include="06_Geeks_03.h">
+      <Filter>Source Files\Geeks\06_Trees</Filter>
+    </ClInclude>
+    <ClInclude Include="06_Geeks_04.h">
+      <Filter>Source Files\Geeks\06_Trees</Filter>
+    </ClInclude>
+    <ClInclude Include="06_Geeks_05.h">
+      <Filter>Source Files\Geeks\06_Trees</Filter>
+    </ClInclude>
+    <ClInclude Include="06_Geeks_06.h">
+      <Filter>Source Files\Geeks\06_Trees</Filter>
+    </ClInclude>
+    <ClInclude Include="06_Geeks_07.h">
+      <Filter>Source Files\Geeks\06_Trees</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

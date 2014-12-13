@@ -72,6 +72,12 @@
     <ClInclude Include="03_Geeks_05.h" />
     <ClInclude Include="03_Geeks_06.h" />
     <ClInclude Include="06_Geeks_01.h" />
+    <ClInclude Include="06_Geeks_02.h" />
+    <ClInclude Include="06_Geeks_03.h" />
+    <ClInclude Include="06_Geeks_04.h" />
+    <ClInclude Include="06_Geeks_05.h" />
+    <ClInclude Include="06_Geeks_06.h" />
+    <ClInclude Include="06_Geeks_07.h" />
     <ClInclude Include="09_Soln_01.h" />
     <ClInclude Include="09_Soln_02.h" />
     <ClInclude Include="09_Soln_03.h" />
